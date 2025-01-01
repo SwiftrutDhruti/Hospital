@@ -1,0 +1,57 @@
+/* header */
+header {
+  background: linear-gradient(
+    180deg,
+    #e3faff 0%,
+    rgba(214, 244, 250, 0.15) 100%
+  );
+}
+.lexand {
+  font-family: "Lexend";
+}
+.Playfair {
+  font-family: "Playfair Display";
+}
+p {
+  color: #7f7f7f !important;
+}
+.parent {
+  position: relative;
+}
+
+/* header end */
+
+/* About */
+
+/* .about h2 {
+  font-family: Playfair Display;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 31.99px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #164e5b;
+} */
+
+/* .about span {
+  font-family: Playfair Display;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 63.98px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #164e5b;
+} */
+/* .about p {
+   font-family: Lexend;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #7F7F7F;
+}  */
+/* About end */
